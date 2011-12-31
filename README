@@ -1,0 +1,10 @@
+
+Using it
+========
+Install deps into node_modules:
+  npm install zappa
+  npm install coffee-script
+Build (and rebuild on changes):
+  make watch
+Run the server:
+  ./node_modules/.bin/coffee server/server.coffee
