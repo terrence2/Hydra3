@@ -27,14 +27,17 @@ server('127.0.0.1', 8080, -> (
     )
 
     @coffee '/run.js': ->
-        $.ready ->
+        $(document).ready ->
             main()
 
     @view('index': -> (
         @title = "Hydra3"
         @scripts = ['/jquery-1.7.1.min', '/hydra3', '/run']
+        @stylesheets = ['/hydra3']
         body ->
-          div id:'main', ->
-            p @title
+          div id:'full-page', ->
+            div id:'titlebar', "Titlebar"
+            div id:'app-area'
+            div id:'statusbar', "Status"
     ))
 ))

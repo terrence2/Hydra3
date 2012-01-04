@@ -1,0 +1,103 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+#full-page {
+  display: -moz-box;
+  -moz-box-orient: vertical;
+}
+#titlebar {
+  -moz-box-flex: 0;
+}
+#app-area {
+  -moz-box-flex: 1;
+}
+#statusbar {
+  -moz-box-flex: 0;
+}
+
+.panel-container {
+  -moz-box-flex: 1;
+  display: -moz-box;
+  -moz-box-orient: vertical;
+  background-color: #f0f;
+}
+.panel-ns-container {
+  -moz-box-flex: 0;
+  background-color: #f00;
+  display: -moz-box;
+}
+.panel-center-container {
+  -moz-box-flex: 1;
+  background-color: #0f0;
+  display: -moz-box;
+}
+
+.panel-corner {
+  -moz-box-flex: 0;
+  width: 18px;
+  height: 18px;
+  background-color: #f0f;
+}
+.panel-ns {
+  -moz-box-flex: 1;
+  height: 18px;
+  background-color: #ff0;
+}
+
+.panel-we {
+  -moz-box-flex: 0;
+  width: 18px;
+  background-color: #ff0;
+}
+.panel-content {
+  -moz-box-flex: 1;
+  moz-background-color: #00f;
+}
+
+.tabview-container {
+  -moz-box-flex: 1;
+  display: -moz-box;
+  -moz-box-orient: vertical;
+}
+
+.tabview-tabs {
+  -moz-box-flex: 0;
+  height: 26px;
+  background-color: #00f;
+}
+
+.tabview-area {
+  -moz-box-flex: 1;
+  background-color: #0ff;
+}
+
+
+/*
+.panel-we-container {
+  display: -moz-box;
+  padding: 0px;
+  margin: 0px;
+}
+.panel-ns-edge {
+  -moz-box-flex: 1;
+}
+.panel-we-edge {
+  -moz-box-flex: 1;
+}
+
+.panel-expanded.panel-corner {
+  width: 20px;
+  height: 20px;
+  background-color: #f0f;
+}
+.panel-expanded.panel-ns-edge {
+  height: 20px;
+  background-color: #f0f;
+}
+.panel-expanded.panel-we-edge {
+  width: 20px;
+  background-color: #f0f;
+}
+*/
