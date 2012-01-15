@@ -1,3 +1,6 @@
+@import "dojo-release-1.7.1/dijit/themes/claro/claro.css";
+@import "dojo-release-1.7.1/dojo/resources/dojo.css";
+
 body {
   margin: 0px;
   padding: 0px;
@@ -30,26 +33,67 @@ body {
 }
 .panel-center-container {
   -moz-box-flex: 1;
-  background-color: #0f0;
+  background-color: #aaa;
   display: -moz-box;
 }
 
 .panel-corner {
   -moz-box-flex: 0;
+  background-color: #fff;
+
+  -webkit-transition-property: background-color, width, height;
+  -moz-transition-property: background-color, width, height;
+  transition-property: background-color, width, height;
+}
+.panel-corner.expanded {
   width: 18px;
   height: 18px;
-  background-color: #f0f;
+  background-color: #555;
+
+  -webkit-transition-duration: 0.15s;
+  -moz-transition-duration: 0.15s;
+  transition-duration: 0.15s;
 }
 .panel-ns {
   -moz-box-flex: 1;
+  background-color: #fff;
+  height: 0px;
+
+  -webkit-transition-property: background-color, height;
+  -moz-transition-property: background-color, height;
+  transition-property: background-color, height;
+}
+.panel-ns.expanded {
+  background-color: #00cf61;
   height: 18px;
-  background-color: #ff0;
+
+  -webkit-transition-duration: 0.15s;
+  -moz-transition-duration: 0.15s;
+  transition-duration: 0.15s;
+}
+.panel-ns:hover {
+  background-color: #0061cf;
 }
 
 .panel-we {
   -moz-box-flex: 0;
+  background-color: #fff;
+  width: 0px;
+
+  -webkit-transition-property: background-color, width;
+  -moz-transition-property: background-color, width;
+  transition-property: background-color, width;
+}
+.panel-we.expanded {
+  background-color: #00cf61;
   width: 18px;
-  background-color: #ff0;
+
+  -webkit-transition-duration: 0.15s;
+  -moz-transition-duration: 0.15s;
+  transition-duration: 0.15s;
+}
+.panel-we:hover {
+  background-color: #0061cf;
 }
 .panel-content {
   -moz-box-flex: 1;
@@ -73,6 +117,17 @@ body {
   background-color: #0ff;
 }
 
+.split-container {
+  -moz-box-flex: 1;
+}
+
+.split-handle {
+  color: #f0f;
+  width: 100%;
+}
+.vsplit > .split-handle {
+  height: 3px;
+}
 
 /*
 .panel-we-container {

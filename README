@@ -4,6 +4,8 @@ Using it
 Install deps into node_modules:
   npm install zappa
   npm install coffee-script
+  wget http://download.dojotoolkit.org/release-1.7.1/dojo-release-1.7.1.tar.gz
+  tar -xvf dojo-release-1.7.1.tar.gz -C server/public/
 Build (and rebuild on changes):
   make watch
 Run the server:

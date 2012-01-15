@@ -32,11 +32,18 @@ server('127.0.0.1', 8080, -> (
 
     @view('index': -> (
         @title = "Hydra3"
-        @scripts = ['/jquery-1.7.1.min', '/hydra3', '/run']
-        @stylesheets = ['/hydra3']
-        body ->
+        @scripts = [
+          '/jquery-1.7.1.min',
+          '/dojo-release-1.7.1/dojo/dojo',
+          '/hydra3',
+          '/run'
+        ]
+        @stylesheets = [
+          '/hydra3',
+        ]
+        body 'class':'claro', ->
           div id:'full-page', ->
-            div id:'titlebar', "Titlebar"
+            div id:'titlebar'
             div id:'app-area'
             div id:'statusbar', "Status"
     ))
