@@ -117,16 +117,26 @@ body {
   background-color: #0ff;
 }
 
-.split-container {
+.vsplit-container {
+  display: -moz-box;
+  -moz-box-orient: vertical;
   -moz-box-flex: 1;
 }
 
-.split-handle {
+.vsplit-handle {
   color: #f0f;
   width: 100%;
+  height: 5px;
+  -moz-box-flex: 0;
 }
-.vsplit > .split-handle {
-  height: 3px;
+
+.vsplit-panel {
+  display: -moz-box;
+  width: 100%;
+}
+
+.vsplit-bottom {
+  -moz-box-flex: 1;
 }
 
 /*

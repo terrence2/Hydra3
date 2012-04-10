@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="1024"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="sym-for.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/terrence/Projects/hydra/data/images/symbols/py/for.png"
+   inkscape:export-xdpi="1.40625"
+   inkscape:export-ydpi="1.40625">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.1784668"
+     inkscape:cx="-1089.4262"
+     inkscape:cy="-146.23579"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="973"
+     inkscape:window-x="0"
+     inkscape:window-y="30" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2383"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#005a00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       transform="matrix(7.1248833,0,0,7.1248833,-59.392582,-169.45464)"><flowRegion
+         id="flowRegion2385"><rect
+           id="rect2387"
+           width="1014.1943"
+           height="1011.3926"
+           x="7.0041041"
+           y="7.0041041"
+           style="fill:#005a00;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara2389"
+         style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#005a00;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial">f</flowPara></flowRoot>    <flowRoot
+       transform="matrix(6.0836926,0,0,6.0836926,177.00528,-12.865273)"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#005a00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       id="flowRoot3552"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3554"><rect
+           style="fill:#005a00;fill-opacity:1"
+           y="7.0041041"
+           x="7.0041041"
+           height="1011.3926"
+           width="1014.1943"
+           id="rect3556" /></flowRegion><flowPara
+         style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#005a00;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+         id="flowPara3558">o</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3560"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#005a00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       transform="matrix(7.1248833,0,0,7.1248833,618.43828,-169.45464)"><flowRegion
+         id="flowRegion3562"><rect
+           id="rect3564"
+           width="1014.1943"
+           height="1011.3926"
+           x="7.0041041"
+           y="7.0041041"
+           style="fill:#005a00;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3566"
+         style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#005a00;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial">r</flowPara></flowRoot>  </g>
+</svg>

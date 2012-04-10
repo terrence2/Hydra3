@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="1024"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="sym-if.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/terrence/Projects/hydra/data/images/symbols/py/if.png"
+   inkscape:export-xdpi="1.40625"
+   inkscape:export-ydpi="1.40625">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.1784668"
+     inkscape:cx="-240.5288"
+     inkscape:cy="-146.23579"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="973"
+     inkscape:window-x="0"
+     inkscape:window-y="30" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       transform="matrix(7.1248833,0,0,7.1248833,164.73874,-169.45464)"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#005a00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       d="M 19.515625,148.70701 L 19.515625,83.878881 L 8.3359375,83.878881 L 8.3359375,74.035131 L 19.515625,74.035131 L 19.515625,66.089819 C 19.515612,61.074282 19.960925,57.347723 20.851562,54.910131 C 22.070297,51.628978 24.203108,48.980544 27.25,46.964819 C 30.343727,44.902423 34.656222,43.871174 40.1875,43.871069 C 43.749963,43.871174 47.687459,44.293048 52,45.136694 L 50.101562,56.175756 C 47.476522,55.707099 44.99215,55.472725 42.648438,55.472631 C 38.804656,55.472725 36.085908,56.293036 34.492188,57.933569 C 32.898412,59.574283 32.101537,62.644592 32.101562,67.144506 L 32.101562,74.035131 L 46.65625,74.035131 L 46.65625,83.878881 L 32.101562,83.878881 L 32.101562,148.70701 L 19.515625,148.70701"
+       id="flowRoot2383" />
+    <path
+       transform="matrix(7.1248833,0,0,7.1248833,-65.162255,-169.45464)"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#005a00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       d="M 16.5625,60.183569 L 16.5625,45.628881 L 29.21875,45.628881 L 29.21875,60.183569 L 16.5625,60.183569 M 16.5625,148.70701 L 16.5625,74.035131 L 29.21875,74.035131 L 29.21875,148.70701 L 16.5625,148.70701"
+       id="flowRoot3560" />
+  </g>
+</svg>
