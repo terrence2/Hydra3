@@ -105,16 +105,71 @@ body {
   display: -moz-box;
   -moz-box-orient: vertical;
 }
-
-.tabview-tabs {
-  -moz-box-flex: 0;
-  height: 26px;
-  background-color: #00f;
-}
-
 .tabview-area {
   -moz-box-flex: 1;
   background-color: #0ff;
+}
+.tabview-tabs {
+  -moz-box-flex: 0;
+  height: 26px;
+  background-image: -moz-linear-gradient(top, rgb(200, 200, 200) 0%, rgb(230, 230, 230) 60%);
+}
+
+.tabview-close-button {
+  color: red;
+  position: relative;
+  left: 3px;
+  top: -6px;
+  overflow: visible;
+  width: 0px;
+}
+.tabview-close-button:hover {
+  text-decoration: underline;
+}
+
+.dojoDndItem {
+  -moz-border-radius: 3px;
+  -moz-border-radius-topright: 10px;
+  -moz-border-radius-bottomleft: 8px;
+  margin: 3px;
+  padding: 2px;
+  padding-left: 8px;
+  padding-right: 10px;
+  background-image: -moz-linear-gradient(bottom, rgb(200, 200, 220) 0%, rgb(230, 230, 250) 60%);
+  float: left;
+  -moz-transition-duration: 2.15s;
+  -moz-transition-property: background-image;
+  transition-duration: 2.15s;
+  transition-property: background-image;
+}
+.dojoDndItemOver {
+  -moz-border-radius-topright: 0px;
+  background-image: -moz-linear-gradient(bottom, rgb(160, 160, 220) 0%, rgb(220, 220, 250) 60%);
+  -moz-transition-property: background-image;
+  -moz-transition-duration: 2.15s;
+  transition-duration: 2.15s;
+  transition-property: background-image;
+}
+.tabview-tab-current {
+  background-image: -moz-linear-gradient(top, rgb(200, 200, 255) 0%, rgb(180, 180, 255) 60%);
+}
+
+.hsplit-container {
+  display: -moz-box;
+  -moz-box-orient: horizontal;
+  -moz-box-flex: 1;
+}
+
+.hsplit-panel {
+  display: -moz-box;
+}
+
+.hsplit-right {
+  -moz-box-flex: 1;
+}
+
+.hsplit-handle {
+  width: 5px;
 }
 
 .vsplit-container {

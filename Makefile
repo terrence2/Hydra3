@@ -18,6 +18,7 @@
 ###
 
 GOALS = \
+	build/panel.js \
 	build/main.js \
 	${NULL}
 TARGET=server/public/hydra3.js
